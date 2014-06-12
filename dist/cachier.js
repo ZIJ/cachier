@@ -1,3 +1,9 @@
+/**
+ * Cachier
+ * @summary Local storage cache for your scripts
+ * @version 0.0.2
+ * @author Igor Zalutsky
+ */
 (function(window, document) {
     'use strict';
 
@@ -91,7 +97,7 @@
     /**
      * Saves script to local storage
      * @param key
-     * @param scriptNode
+     * @param text
      */
     Cachier.prototype.saveScript = function(key, text) {
         var fullKey = options.localStoragePrefix + key;

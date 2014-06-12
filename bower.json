@@ -1,0 +1,11 @@
+{
+    "name": "cachier",
+    "version": "0.0.2",
+    "main": "dist/cachier.js",
+    "ignore": [
+        "demo",
+        ".jshintrc",
+        "gulpfile.js",
+        "package.json"
+    ]
+}

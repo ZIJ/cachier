@@ -1,0 +1,21 @@
+{
+    "node": true,
+    "browser": true,
+    "bitwise": true,
+    "curly": true,
+    "eqeqeq": true,
+    "forin": true,
+    "freeze": true,
+    "immed": true,
+    "indent": 4,
+    "latedef": true,
+    "newcap": true,
+    "noarg": true,
+    "nonbsp": true,
+    "plusplus": true,
+    "quotmark": "single",
+    "undef": true,
+    "unused": true,
+    "strict": true,
+    "trailing": true
+}
